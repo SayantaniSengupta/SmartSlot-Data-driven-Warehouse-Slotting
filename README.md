@@ -1,4 +1,4 @@
-# Warehouse item placement optimization
+# SmartSlot: Data-driven Warehouse Slotting
 
 Finding the best location for some items in an aisle in an warehouses.
 In this warehouse aisle, we are storing a number of items that are to be picked up and shipped to customers.
